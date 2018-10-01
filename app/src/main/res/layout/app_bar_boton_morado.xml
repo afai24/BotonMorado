@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="es.unavarra.tlm.pit.botonmorado.BotonMorado">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@color/moradoOscuro"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+       <!-- El botón de debug para los tokens
+        <Button
+            android:id="@+id/btnToken"
+            android:text="refrescar token Firebase, ver el log"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+            -->
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_boton_morado" />
+
+
+</android.support.design.widget.CoordinatorLayout>

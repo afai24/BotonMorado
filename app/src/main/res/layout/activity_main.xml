@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/moradoClaro"
+    tools:context="es.unavarra.tlm.pit.botonmorado.MainActivity">
+
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_gravity="center">
+
+        <TextView
+            android:id="@+id/message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/activity_vertical_margin"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin"
+            android:layout_marginRight="@dimen/activity_horizontal_margin"
+            android:layout_marginTop="@dimen/activity_vertical_margin"
+            android:text="@string/tutorial1" />
+        <ScrollView
+            android:visibility="invisible"
+            android:layout_marginTop="50dp"
+            android:id="@+id/scroll"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical"
+            android:fillViewport="true">
+
+            <TextView
+                android:layout_marginLeft="16dp"
+                android:layout_marginRight="16dp"
+                android:id="@+id/textCondiciones"
+                android:text="@string/condiciones"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1.0"
+                android:layout_marginBottom="50dp"/>
+        </ScrollView>
+
+
+
+
+
+        <es.unavarra.tlm.pit.botonmorado.InteractiveScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:id="@+id/scroll_tutorial"
+            android:scrollbars="vertical"
+            android:fillViewport="true" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_horizontal|center_vertical"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/textTutorial1"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="0dp"/>
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="200dp"
+                    android:src="@drawable/stop_2"
+                    android:layout_marginTop="50dp"
+                    android:layout_gravity="center_horizontal"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/textTutorial2"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="50dp"/>
+                <Button
+                    android:id="@+id/botonMorado"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/roundedbutton"
+                    android:gravity="center"
+                    android:text="@string/ayudame"
+                    android:layout_marginTop="50dp"
+                    android:textSize="36dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/textTutorial25"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="50dp"/>
+                <Button
+                    android:id="@+id/botonQuieroAyudar"
+                    android:layout_width="250dp"
+                    android:layout_height="250dp"
+                    android:background="@drawable/roundedbutton"
+                    android:gravity="center"
+                    android:text="@string/quieroAyudar"
+                    android:layout_marginTop="50dp"
+                    android:textSize="36dp" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/textTutorial3"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="50dp"/>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="200dp"
+                    android:src="@drawable/difundir_2"
+                    android:layout_marginTop="50dp"
+                    android:layout_gravity="center_horizontal"/>
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/textTutorial4"
+                    android:textSize="25dp"
+                    android:gravity="center"
+                    android:layout_marginTop="50dp"
+                    android:layout_marginBottom="100dp"/>
+
+
+
+            </LinearLayout>
+
+
+        </es.unavarra.tlm.pit.botonmorado.InteractiveScrollView>
+
+        <android.support.design.widget.BottomNavigationView
+            android:id="@+id/navigation"
+            android:visibility="invisible"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="?android:attr/windowBackground"
+            app:menu="@menu/navigation" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal|center_vertical">
+            <Button
+                android:id="@+id/buttonTutorial"
+                android:layout_width="250dp"
+                android:layout_height="250dp"
+                android:background="@drawable/roundedbutton"
+                android:gravity="center"
+                android:visibility="visible"
+                android:text="@string/tutorial2"
+                android:textSize="36dp" />
+        </LinearLayout>
+
+
+
+    </FrameLayout>
+
+
+
+
+
+
+</LinearLayout>

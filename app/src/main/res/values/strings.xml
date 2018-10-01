@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Botón Morado</string>
+    <string name="tutorial1">Tutorial</string>
+    <string name="tutorial2">Regístrate</string>
+    <string name="tutorial3">REGISTRARSE</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono móvil</string>
+    <string name="codigo">Código</string>
+    <string name="checkboxCondiciones">He leído y acepto las condiciones de uso</string>
+    <string name="verificar">Verificar</string>
+    <string name="crearCuenta">Crear Cuenta</string>
+    <string name="ayudame">Ayúdame</string>
+    <string name="title_activity_boton_morado">BotonMorado</string>
+    <string name="condiciones_de_uso">Condiciones de Uso</string>
+    <string name="buscar_alertas">Buscar Alertas</string>
+    <string name="contacto">Contacto</string>
+    <string name="donaciones">Donaciones</string>
+    <string name="volver">Volver</string>
+    <string name="textoPedirAyuda">Si puedes, describe tu ubicación para que puedan encontrarte más fácilmente.</string>
+    <string name="textoAdvertencia">Recuerda: la fiabilidad de ésta aplicación depende de tu buen uso de la misma. Por favor, no pidas ayuda si realmente no la necesitas.</string>
+    <string name="pedirayuda">Pedir Ayuda</string>
+    <string name="noPedirAyuda">No pedir ayuda y volver</string>
+    <string name="textoTranquila">Tranquila, la ayuda está en camino. Quédate donde estás y manten la calma.\nUna vez socorrida, pulsa en PARAR ALERTA para que otros usuarios no se preocupen por ti (Nota: la alerta se parará automáticamente a los 5 minutos de haber sido emitida).</string>
+    <string name="pararAlerta">Parar Alerta</string>
+    <string name="quieroAyudar">Quiero Ayudar</string>
+    <string name="texto_lista_personas">Peronas que necesitan ayuda:</string>
+
+    <string name="title_activity_maps">detalles de ubicacion actual</string>
+    <string name="default_info_title">Ubicacion por defecto</string>
+    <string name="default_info_snippet">los permisos de localizacion estan deshabilitados</string>
+    <string name="option_get_place">alguien necesita Ayuda!!</string>
+    <string name="pick_place">elegir un lugar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="donar">DONAR</string>
+    <string name="textoDonaciones">Mantener esta aplicación conlleva gastos. Si quieres colaborar puedes hacerlo aquí. Cada euro que recibimos nos sirve para que 18 personas se puedan registrar.</string>
+    <string name="condiciones">Al usar, acceder, descargar, instalar, obtener o brindar información desde y hacia esta Aplicación Móvil, se considerará que los Usuarios han leído y aceptado estos Términos y Condiciones incluyendo nuestra Política de Privacidad, que se incorpora al presente documento en virtud de esta referencia.\n\nLos términos y condiciones, así como la política de privacidad, podrían ser cambiados en cualquier momento y sin previo aviso, por lo que es responsabilidad de los usuarios revisar periódicamente los mismos y suspender el uso de la aplicación si no están de acuerdo con los cambios efectuados. Los Usuarios deben suspender el uso de esta Aplicación Móvil inmediatamente si no están de acuerdo o no aceptan todos estos Términos y Condiciones.\n\nBotón Morado se reserva el derecho de eliminar o prohibir a cualquier Usuario la utilización de esta Aplicación Móvil a su sola discreción.\n\nLos usuarios estarán legitimados a pulsar el botón en el que se lee \"AYÚDAME\" siempre y cuando se encuentren en una situación real de peligro. El uso de la aplicación con fines humorísticos, de ocio, o cualquier otro fin que no sea aquel para el que ha sido diseñada, no está autorizado y podría acarrear consecuencias legales.\n\nBotón Morado puede, a su sola discreción, brindar acceso a los Usuarios a porciones restringidas de esta Aplicación Móvil, incluyendo, entre otros, una o más cuentas de Usuario donde pueda brindarse y/u obtenerse la información y servicios específicos de los clientes.  Los Usuarios que entren a dichas ubicaciones podrían estar sujetos a Términos y Condiciones adicionales según se especifique en relación a los servicios proporcionados. Los Usuarios con cuentas de servicio son responsables exclusivos de preservar la confidencialidad de toda información de acceso, la información de la cuenta del Usuario y todas las acciones u omisiones vinculadas con dicha cuenta.\n\n\nPOLÍTICA DE PRIVACIDAD\n\n\nEl presente Política de Privacidad establece los términos en que Botón Morado usa y protege la información que es proporcionada por sus usuarios al momento de utilizar su aplicación. Esta compañía está comprometida con la seguridad de los datos de sus usuarios. Cuando le pedimos llenar los campos de información personal con la cual usted pueda ser identificado, lo hacemos asegurando que sólo se empleará de acuerdo con los términos de este documento. Sin embargo esta Política de Privacidad puede cambiar con el tiempo o ser actualizada por lo que le recomendamos y enfatizamos revisar continuamente esta página para asegurarse que está de acuerdo con dichos cambios.\n\nInformación que es recogida\n\nNuestra aplicación podrá recoger información personal por ejemplo: Nombre,  información de contacto como  su dirección de correo electrónica, teléfono móvil y ubicación.\n\nUso de la información recogida\n\nNuestra aplicación emplea la información con el fin de proporcionar el mejor servicio posible, particularmente para mantener un registro de usuarios y mejorar nuestros productos y servicios.  Es posible que sean enviados correos electrónicos periódicamente a través de nuestro sitio con ofertas especiales, nuevos productos y otra información publicitaria que consideremos relevante para usted o que pueda brindarle algún beneficio, estos correos electrónicos serán enviados a la dirección que usted proporcione y podrán ser cancelados en cualquier momento.  Botón Morado está altamente comprometido para cumplir con el compromiso de mantener su información segura. Usamos los sistemas más avanzados y los actualizamos constantemente para asegurarnos que no exista ningún acceso no autorizado.\n\nEnlaces a Terceros\n\nEsta aplicación pudiera contener enlaces a otros sitios que pudieran ser de su interés. Una vez que usted de clic en estos enlaces y abandone nuestra aplicación, ya no tenemos control sobre al sitio al que es redirigido y por lo tanto no somos responsables de los términos o privacidad ni de la protección de sus datos en esos otros sitios terceros. Dichos sitios están sujetos a sus propias políticas de privacidad por lo cual es recomendable que los consulte para confirmar que usted está de acuerdo con estas.\n\nControl de su información personal\n\nEn cualquier momento usted puede restringir la recopilación o el uso de la información personal que es proporcionada a nuestra aplicación.  Cada vez que se le solicite rellenar un formulario, como el de alta de usuario, puede marcar o desmarcar la opción de recibir información por correo electrónico.  En caso de que haya marcado la opción de recibir nuestro boletín o publicidad usted puede cancelarla en cualquier momento.  Esta compañía no venderá, cederá ni distribuirá la información personal que es recopilada sin su consentimiento, salvo que sea requerido por un juez con un orden judicial.\nBotón Morado Se reserva el derecho de cambiar los términos de la presente Política de Privacidad en cualquier momento, sin previo aviso.</string>
+    <string name="textSMS">Te pedimos tu móvil para poder prevenir las alertas falsas. Además, si envías una alerta podrás elegir que vean tu móvil para que te puedan llamar y te encuentren más rápido. Te enviaremos un SMS para verificar tu móvil.\n\nEl nombre que introduzcas se difundirá en caso de que envíes una alerta, para que te puedan encontrar más fácilmente.</string>
+    <string name="textTutorial1">Esta aplicación te servirá para pedir ayuda en caso de estar sufriendo una agresión sexual, ya sea en un bar, discoteca, evento, o en tu día a día.</string>
+    <string name="textTutorial2">Cuando mandes una alerta, las personas que estén cerca de ti y tengan la aplicación instalada, recibirán una notificación con tu ubicación y podrán ir a ayudarte.</string>
+    <string name="textTutorial3">Cuanta más gente se la instale, más efectiva podrá ser la respuesta en caso de una agresión. ¡Así que difúndela!</string>
+    <string name="textTutorial4">No mandes alertas falsas. ¡Un uso responsable nos beneficia a todas!</string>
+    <string name="contacto2">Si tienes alguna duda, sugerencia o problema con la app, o bien quieres modificar o eliminar tus datos, puedes contactarnos en nuestras redes sociales o nuestro e-mail.</string>
+    <string name="textTutorial25">Si recibes una notificación quiere decir que hay una alerta en tu ciudad. Si al dar al boton QUIERO AYUDAR te sale una lista de alertas, quiere decir que están cerca de ti y podrás verlas en el mapa e ir a ayudar.</string>
+    <string name="textVerif">El SMS podría tardar hasta un minuto en llegar.</string>
+</resources>

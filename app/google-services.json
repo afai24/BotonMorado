@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120637623283",
+    "firebase_url": "https://botonmorado-2b33b.firebaseio.com",
+    "project_id": "botonmorado-2b33b",
+    "storage_bucket": "botonmorado-2b33b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120637623283:android:2dcad51b2b8df91f",
+        "android_client_info": {
+          "package_name": "es.unavarra.tlm.pit.botonmorado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120637623283-vnnk4bes8aj93onoq001af5qftrhfk0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "es.unavarra.tlm.pit.botonmorado",
+            "certificate_hash": "69697b8ab6da803d5cbeb328565ab867b106db8f"
+          }
+        },
+        {
+          "client_id": "120637623283-2isd9cf4kq5c6njr8lge20k8n6ml8iaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAacH3m9l7U8JwShxlDu_4hR2XOZeiopMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120637623283-2isd9cf4kq5c6njr8lge20k8n6ml8iaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_buscar_alertas"
+            android:icon="@drawable/ic_buscar_alertas"
+            android:title="@string/buscar_alertas" />
+        <item
+            android:id="@+id/menu_donaciones"
+            android:icon="@drawable/ic_donaciones"
+            android:title="@string/donaciones" />
+        <item
+            android:id="@+id/menu_condiciones_de_uso"
+            android:icon="@drawable/ic_condiciones_de_uso"
+            android:title="@string/condiciones_de_uso" />
+        <item
+            android:id="@+id/menu_contacto"
+            android:icon="@drawable/ic_contacto"
+            android:title="@string/contacto" />
+    </group>
+
+</menu>
